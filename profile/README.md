@@ -18,7 +18,7 @@ We specialize in developing a diverse range of products, spanning from everyday 
 Join us on our journey to make a positive impact! Whether you're interested in contributing your skills, supporting our projects, or simply spreading kindness, there are many ways to get involved with Licht Labs. Reach out to us to learn more about how you can become a part of our community.
 
 ## Contact Us
-- **Website**: [www.lichtlabs.com](http://www.lichtlabs.org)
+- **Website**: [www.lichtlabs.org](http://www.lichtlabs.org)
 - **Email**: info@lichtlabs.org
 
 ## Products

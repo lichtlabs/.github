@@ -1,4 +1,4 @@
-# Licht Labs | A group of kind-hearted young bois 👋
+# Licht Labs | A group of kind-hearted youth 👋
 
 ## About Us
 Welcome to Licht Labs, where a group of kind-hearted young individuals come together to make a positive impact through our work. We are passionate about creating goods that not only serve practical purposes but also reflect our values of kindness, innovation, and community.

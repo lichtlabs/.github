@@ -21,8 +21,8 @@ Join us on our journey to make a positive impact! Whether you're interested in c
 - **Website**: [www.lichtlabs.org](http://www.lichtlabs.org)
 - **Email**: info@lichtlabs.org
 
-## Products
-- [lichtup.com](https://lichtup.com) Game, Voucher & Streaming topup service
+## Projects
+- [G'GRIMA](https://ggrims.lichtlabs.org) Event management and Event ticket selling
 
 Thank you for your interest in Licht Labs! Together, let's create a brighter future through kindness and innovation. 👋✨
 

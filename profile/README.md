@@ -1,6 +1,6 @@
 # Licht Labs | A group of kind-hearted youth 👋
 
-| By | Since |
+| Sponsored By | Since |
 |---------|-------|
 | [GGRIMS Team](https://ggrims.lichtlabs.org) | Sep 2024 |
 

@@ -1,7 +1,5 @@
 # Licht Labs | A group of kind-hearted youth 👋
 
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/lichtlabs)
-
 | By | Since |
 |---------|-------|
 | [GGRIMS Team](https://ggrims.lichtlabs.org) | Sep 2024 |
